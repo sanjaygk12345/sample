@@ -1,2 +1,1 @@
-# sample
-my first repo
+
